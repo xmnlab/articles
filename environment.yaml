@@ -1,0 +1,7 @@
+name: osl-articles
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- jupyter-book
+- sphinx

@@ -1,0 +1,8 @@
+format: jb-book
+root: intro
+parts:
+
+  - caption: blog
+    chapters:
+    - file: articles/r-ggplot-bo/ArticuloGgplotenR.md
+

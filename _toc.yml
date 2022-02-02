@@ -12,17 +12,17 @@ parts:
     - file: articles/0057-r-ggplot-bo/ArticuloGgplotenR.md
       title: "#0057: Visualiza tus datos en R con ggplot2 y gganimate"
     - file: articles/0056-openscienceframework/openscienceframework.md
-      title: "0056: ¿Qué es el Open Science Framework?"
+      title: "#0056: ¿Qué es el Open Science Framework?"
     - file: articles/0055-Rstudio/Rstudio.md
-      title: "0055: Primeros pasos con RStudio"
+      title: "#0055: Primeros pasos con RStudio"
     - file: articles/0054-dvc/dvc.md
-      title: "0054: ¿Qué es el Data Version Control (DVC) y por qué es necesario que tu equipo sepa cómo utilizarlo?"
+      title: "#0054: ¿Qué es el Data Version Control (DVC) y por qué es necesario que tu equipo sepa cómo utilizarlo?"
     - file: articles/0053-spyder/spyder.md
-      title: "0053: Primeros pasos con Spyder"
+      title: "#0053: Primeros pasos con Spyder"
     - file: articles/0052-carpentries/carpentries.md
-      title: "0052: ¿Por qué deberías considerar a The Carpentries como una referencia para aprender ciencia de datos?"
+      title: "#0052: ¿Por qué deberías considerar a The Carpentries como una referencia para aprender ciencia de datos?"
     - file: articles/0051-5proyectosdeinteligenciaartificial/5proyectosdeinteligenciaartificial.md
-      title: "0051: 5 proyectos de inteligencia artificial que te sorprenderan"
+      title: "#0051: 5 proyectos de inteligencia artificial que te sorprenderan"
     - file: articles/0050-10herramientasgestionequipos/10herramientasgestionequipos.md
       title: "#0050: 10 Plataformas que te ayudarán en la gestión de tu grupo de trabajo."
     - file: articles/0049-figshare/figshare.md

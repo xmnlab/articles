@@ -11,6 +11,14 @@ herramientas computacionales y trabajo colaborativo.
 
 <!--content:start-->
 
+```{admonition} NFT. Más que un JPG
+![header](articles/0058-nfts-article1/header.png)
+
+Quizá hayas escuchado el término NFT últimamente. Títulos de noticias descabelladas como [«Porque este CryptoPunk NFT  fue vendido por $532 millones de USD»](https://www.cnet.com/news/why-this-cryptopunk-nft-sold-for-532-million-sort-of/) o [«Memes clásicos que fueron vendidos como NFT»](https://ma ...
+[see more](articles/0058-nfts-article1/nft-mas-que-un-jpg.md)
+
+```
+    
 ```{admonition} Visualiza tus datos en R con ggplot2 y gganimate
 ![header](articles/0057-r-ggplot-bo/header.png)
 
@@ -674,6 +682,18 @@ conocimiento científico se verá revolucionado gracias a esta forma
 de hacer ciencia.
  ...
 [see more](articles/0001-ciencia_abierta/ciencia_abierta.md)
+
+```
+    
+```{admonition} Alan Hurtarte
+![header](images/empty.png)
+
+
+
+Software engineer with more than six years of working experience, with a post-degree in data analysis.
+Full-stack web development experience, delivering products from scratch to production with several 
+technologies like git, vue js, react js, Laravel, php, solidity, mysql, c++, and agile methodo ...
+[see more](authors/alan-hurtarte.md)
 
 ```
     

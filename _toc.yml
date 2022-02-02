@@ -123,3 +123,8 @@ parts:
       title: "#0002: Git de 0 a 100 en diez sencillos pasos"
     - file: articles/0001-ciencia_abierta/ciencia_abierta.md
       title: "#0001: ¿Qué es la ciencia abierta?"
+  - caption: Autores
+    chapters:
+    - file: authors/alan-hurtarte.md
+      title: Alan Hurtarte
+

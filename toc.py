@@ -42,6 +42,9 @@ def generate_toc():
     """
 
     for fname in files:
+        if not fname.startswith("articles"):
+            continue
+
         with open(fname) as f:
             f_content = f.readlines()
             f_title = f_content[0].replace("#", "").strip()

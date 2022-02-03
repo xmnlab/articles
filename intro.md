@@ -17,11 +17,11 @@ Estés al tanto de nuestras publicaciones en las redes sociales:
 [![youtube](./images/networks/youtube.png)](http://youtube.opensciencelabs.org)
 
 
-# Blog
+## Blog
 
 En esta sección presentamos nuestras publicaciones sobre temas de ciencia abierta,
 herramientas computacionales y trabajo colaborativo.
 
-<!--content:start--><!--content:end-->
-
+<!--content:start-->
+<!--content:end-->
 

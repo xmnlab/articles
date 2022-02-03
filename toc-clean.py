@@ -7,7 +7,7 @@ def main():
         content = f.read()
 
     pattern = r"<!--content:start-->(.*)((\s)+(.*))+<!--content:end-->"
-    no_toc = f"<!--content:start--><!--content:end-->"
+    no_toc = f"<!--content:start-->\n<!--content:end-->"
 
     content = re.sub(pattern, no_toc, content)
 

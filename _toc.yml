@@ -127,4 +127,6 @@ parts:
     chapters:
     - file: authors/alan-hurtarte.md
       title: Alan Hurtarte
+    - file: authors/ever-vino.md
+      title: Ever Vino
 
